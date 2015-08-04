@@ -1,4 +1,4 @@
-__author__ = 'Abdul'
+__authors__ = 'Abdul, Yatri, Sadashiv'
 
 """
 A simple battleship game in python.
